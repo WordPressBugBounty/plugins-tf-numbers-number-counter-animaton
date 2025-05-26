@@ -2,7 +2,7 @@
 Contributors: metagauss
 Tags: numbers counter, numbers, numbers showcase, statistics, animated numbers, number animation, numbers counter, numbers counting
 Requires at least: 4.4.0
-Tested up to: 6.5
+Tested up to: 6.7
 Stable tag: 2.0.9
 Requires PHP: 7.3
 License: GPLv2 or later
